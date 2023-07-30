@@ -3,6 +3,7 @@ import time
 import os
 import subprocess
 
+## for teams users!
 
 time.sleep(1)
 pe.press('win')
